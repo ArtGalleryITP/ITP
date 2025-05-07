@@ -1,0 +1,88 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+.pnpm-debug.log
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+*.csv
+*.out
+*.pid
+*.seed
+*.pid.lock
+
+# Build output
+dist/
+build/
+coverage/
+.next/
+out/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+
+# Optional npm cache directory
+.npm/
+
+# React Native
+.expo/
+.expo-shared/
+
+# MongoDB dump
+dump/
+
+# PM2 logs
+pids/
+*.log
+*.pid
+
+# Misc
+*.tgz
+*.gz
+*.zip
+.cache/
+.eslintcache
+
+# Testing
+coverage/
+jest-test-results.json
+test-output/
+cypress/screenshots/
+cypress/videos/
+
+# TypeScript
+*.tsbuildinfo
+
+# Mac M1 .DS_Store from Finder
+.DS_Store
+
+# Firebase
+.firebase/
+
+# Local development
+local.js
+firebase-debug.log
+firestore-debug.log
